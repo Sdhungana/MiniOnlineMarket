@@ -35,7 +35,6 @@
 
       5. General		
   
-  
         Login/Logout	
         Security with JWT (Users should not be able to access other pages links)	
         Process verifications etc. (user get email of purchase, gets a message)	
