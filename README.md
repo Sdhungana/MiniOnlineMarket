@@ -1,8 +1,9 @@
 # MiniOnlineMarket
 
 1.Admin	
-  a.	If the seller registers to the web site, he/she need to get approval from Admin in order to post products.	
-  b.	The admin should approve the reviews that are made from the Buyers.	
+
+   a.	If the seller registers to the web site, he/she need to get approval from Admin in order to post products.	
+   b.	The admin should approve the reviews that are made from the Buyers.	
 2. Seller	
   a.	Register as Seller		
   b.	Product (CRUD). If a product has already been purchased, it cannot be deleted.	
